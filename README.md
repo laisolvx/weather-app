@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+O projeto de clima de tempo é uma aplicação web desenvolvida utilizando React Hooks para gerenciar o estado da aplicação e permitir uma renderização eficiente dos componentes. O design da aplicação é construído utilizando Tailwind, uma biblioteca de classes utilitárias para estilização de elementos HTML. Para fornecer informações atualizadas sobre o clima, a aplicação consome uma API de previsão do tempo. Os dados são recuperados da API em tempo real e exibidos na tela para o usuário. A aplicação possui uma interface simples e intuitiva, permitindo ao usuário visualizar informações de clima atual.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
